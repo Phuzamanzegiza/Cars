@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: /Users/francisngema/jupyter_notebooks/MADS_Research_Project_2024/Assessments/Consumer_Analytics/R Programming/Cars
