@@ -4,6 +4,7 @@ title: "Welcome to My Project"
 author: "Franco"
 date: "2024-06-18"
 output: html_document
+ theme: cosmo
 ---
 
 ## Welcome
