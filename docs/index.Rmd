@@ -5,12 +5,13 @@ date: "2024-06-18"
 output: 
   html_document:
     theme: cerulean
-    
+    toc: true
+    toc_float: true
 ---
 
 ## Welcome
 
-Welcome to my data science projects and resume. This is the main page of the site.
+Welcome to my project! This is the main page of the site.
 
 ## About
 
