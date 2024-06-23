@@ -1,3 +1,17 @@
+#name: "cars"
+#navbar:
+  #title: "Cars"
+  #left:
+    #- text: "Home"
+      #href: index.html
+    #- text: "Speed and Distance"
+      #href: speed-and-distance.html
+#output:
+  #html_document:
+    #theme: cosmo
+
+################################################################################
+
 name: "cars"
 navbar:
   title: "Cars"
@@ -8,4 +22,10 @@ navbar:
       href: speed-and-distance.html
 output:
   html_document:
-    theme: cosmo
+    theme: cerulean
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    highlight: tango
+    includes:
+      in_header: header.html
