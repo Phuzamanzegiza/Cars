@@ -28,11 +28,11 @@ plot(pressure)
 
 
 
-```{r setup, include=FALSE}
+```{r}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r, include=FALSE}
+```{r}
 # Including an image using knitr
-knitr::include_graphics("docs/your_image.png")
+knitr::include_graphics("docs/images/your_image.png")
 ``` 
