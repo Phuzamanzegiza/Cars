@@ -32,8 +32,6 @@ plot(pressure)
 
 
 
-```{r}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 
 
