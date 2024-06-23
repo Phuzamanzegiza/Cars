@@ -5,8 +5,13 @@ date: "2024-06-18"
 output: 
   html_document:
     theme: cerulean
-    toc: true
-    toc_float: true
+    toc: false
+    toc_float: false
+    highlight: tango
+    includes:
+      before_body: navbar.html
+      in_header: header.html
+      
 ---
 
 
