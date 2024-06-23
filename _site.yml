@@ -23,9 +23,4 @@ navbar:
 output:
   html_document:
     theme: cerulean
-    toc: true
-    toc_depth: 2
-    toc_float: true
-    highlight: tango
-    includes:
-      in_header: header.html
+    
